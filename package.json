@@ -1,0 +1,24 @@
+{
+  "name": "llm19-react-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darkstar8217/llm19-react-sandbox.git"
+  },
+  "author": "dani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darkstar8217/llm19-react-sandbox/issues"
+  },
+  "homepage": "https://github.com/Darkstar8217/llm19-react-sandbox#readme",
+  "description": "",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "bootstrap": "^4.4.1",
+    "init": "^0.1.2"
+  }
+}
